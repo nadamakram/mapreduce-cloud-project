@@ -8,3 +8,7 @@ of each type of quotes (e.g. TSLA) taken from the last column.
 ## Dataset
 
 From Yahoo Finance
+
+## Deployment 
+
+For open source experiments I used https://github.com/big-data-europe/docker-hadoop 
